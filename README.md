@@ -1,7 +1,7 @@
 ### Olá, meu nome é Rafael Jesus 😄☕
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando desenvolvimento de sites utilizando as tecnologias mais modernas do mercado
+- 🔭 Hoje trabalho com Dev Fullstack C#
+- 🌱 Estudando Desenvolvimento de sistemas e Segurança da Informação utilizando as tecnologias mais modernas do mercado
 - ☕ Coffe lover
 
 <div style="margin:auto;">
